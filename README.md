@@ -27,8 +27,8 @@ app.py
 - app.py
 - Home.py
 - Predict.py
-- DT_final_pred.csv
+- XGB_final_pred.csv
 - eda_model.ipynb
-- pickle file for DT and other models
-- final_pred.zip(contains Final predictions of other models-RF,LR and XGB)
-- rf_lr_xgb_models.zip(Pickle files of other models-RF,LR and XGB)
+- xgb_model.sav
+- LR_DT_RF_final_pred.zip(contains Final predictions of other models-RF,LR and DT)
+- LR_rf_DT_model.zip(Pickle files of other models-RF,LR and DT)
